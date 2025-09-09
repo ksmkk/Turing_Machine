@@ -1,6 +1,6 @@
-# 🖥️ Máquina de Turing con LEDs y Sensor de Luminosidad
+# Máquina de Turing con LEDs y Sensor de Luminosidad
 
-Este proyecto implementa una **Máquina de Turing física** utilizando **LEDs** y un **sensor de luminosidad (LDR)** en lugar de imanes y sensores Hall.  
+Este proyecto implementa una **Máquina de Turing física** utilizando **LEDs** y un **sensor de luminosidad (LDR)**. 
 El objetivo es representar operaciones aritméticas básicas en **unario**, de forma didáctica y visual.
 
 ---
