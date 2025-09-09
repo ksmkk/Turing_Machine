@@ -3,6 +3,13 @@
 Este proyecto implementa una **Máquina de Turing física** utilizando **LEDs** y un **sensor de luminosidad (LDR)**. 
 El objetivo es representar operaciones aritméticas básicas en **unario**, de forma didáctica y visual.
 
+## 👨‍💻 Autores
+
+Proyecto desarrollado por:
+
+- **Bastián André Salinas Collado** — RUT: 21.848.994-K  
+- **Tomás Alexis Guerra Reyes** — RUT: 21.664.334-5  
+
 ---
 ### Operadores
 - **Rojo (LED)** → Suma ➕  
